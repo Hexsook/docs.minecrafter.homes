@@ -109,7 +109,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} TopMines Studios`,
+        copyright: `Copyright © ${new Date().getFullYear()} TopMines Studios. All Rights Reserved.`,
       },
       prism: {
         theme: prismThemes.github,
